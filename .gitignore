@@ -25,3 +25,8 @@ PubSub.vshost.exe
 PubSub.vshost.exe.config
 PubSub.vshost.exe.manifest
 PubSub.v12.suo
+obj
+bin
+ClientServer.suo
+ClientServer.v12.suo
+InProcRelay.suo
